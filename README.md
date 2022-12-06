@@ -1,6 +1,6 @@
 # Welcome! My name is Trevor Dorn!
 
-## MERN Goal Setter
+## MERN Goal Setter [visit](https://github.com/)
 
 ## Description:
 
