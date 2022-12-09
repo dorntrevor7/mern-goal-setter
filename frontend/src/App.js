@@ -5,6 +5,7 @@ import Register from "./pages/Register";
 import Header from "./components/Header";
 
 const App = () => {
+  const styles = {};
   return (
     <div>
       <Router>
